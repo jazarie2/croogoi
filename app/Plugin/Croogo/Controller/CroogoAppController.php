@@ -29,6 +29,7 @@ class CroogoAppController extends Controller {
 		'Auth',
 		'Session',
 		'RequestHandler',
+		'Menus.Menus'
 	);
 
 /**
@@ -46,6 +47,7 @@ class CroogoAppController extends Controller {
 		'Time',
 		'Croogo.Layout',
 		'Custom',
+		'Menus.Menus'
 	);
 
 /**
